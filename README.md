@@ -4,9 +4,9 @@ The Dockerfile provided in this repository outlines the steps to build a Docker 
 Additionally, it demonstrates how to run the Flask application within a Docker container, making it easy to deploy and manage in various environments.
 
 Key Features:
- Simple Python Flask application
+  Simple Python Flask application
  
- Dockerfile for containerization
+  Dockerfile for containerization
  
- Easy deployment and management with Docker
+  Easy deployment and management with Docker
 
