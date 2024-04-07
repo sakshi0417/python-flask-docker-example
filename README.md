@@ -5,6 +5,8 @@ Additionally, it demonstrates how to run the Flask application within a Docker c
 
 Key Features:
  Simple Python Flask application
+ 
  Dockerfile for containerization
+ 
  Easy deployment and management with Docker
 
